@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "price": 29.99,
+    "description": "Men T Shirt || T-Shirt For Men || Plain T Shirt || T-Shirt\nPattern Type: Plain\nSleeve Length: Short Sleeve\nColor Disclaimer: Product color might slightly vary due to photographic lighting sources or your monitor settings\nFit Type: Regular Fit",
+    "sizes": [
+      { "size": "S", "price": 29.99 },
+      { "size": "M", "price": 32.99 },
+      { "size": "L", "price": 34.99 },
+      { "size": "XL", "price": 36.99 }
+    ],
+    "image": "/images/wts.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Casual Trousers for Men",
+    "price": 59.99,
+    "description": "Material: Cotton Blend\nWash Care: Machine wash\nPockets: Comes with 2 slant pockets in front and 2 welt pockets on the back side\nClosure: Button and zip closure",
+    "sizes": [
+      { "size": "28", "price": 59.99 },
+      { "size": "30", "price": 62.99 },
+      { "size": "32", "price": 64.99 },
+      { "size": "34", "price": 66.99 }
+    ],
+    "image": "/images/sfj4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Men's Cargo Pants",
+    "price": 89.99,
+    "description": "Material: 60% Cotton 40% Polyester\nPattern: Solid\nWaist Line: High Waist\nSheer: No\nPattern Type: Solid/Plain\nDetails: High Waist, Straight, Flap Pocket, Loose, Drawstring Waist",
+    "sizes": [
+      { "size": "7", "price": 89.99 },
+      { "size": "8", "price": 92.99 },
+      { "size": "9", "price": 94.99 },
+      { "size": "10", "price": 96.99 },
+      { "size": "11", "price": 99.99 }
+    ],
+    "image": "/images/cargo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Leather Jacket",
+    "price": 199.99,
+    "description": "Stay stylish and practical with our Black Faux Leather Belted Jacket, featuring multiple pockets for all your essentials.\nThe addition of a belt not only adds sophistication but also allows you to cinch the jacket at the waist, highlighting your feminine silhouette.\nDesigned for cold days, this warm jacket will keep you comfortable while ensuring you look chic and put together.\nElevate your fashion game and make a statement with this versatile jacket that combines style and functionality effortlessly.",
+    "sizes": [
+      { "size": "S", "price": 199.99 },
+      { "size": "M", "price": 209.99 },
+      { "size": "L", "price": 219.99 },
+      { "size": "XL", "price": 229.99 }
+    ],
+    "image": "/images/lj.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Printed Kurti",
+    "price": 189.99,
+    "description": "Kurta Set Fabric: Rayon Blend\nKurta Set Color: Beige\nStyle: Straight\nLength: Calf Length\nSleeves: 3/4 Sleeves\nThis set includes: 1 Kurta and 1 Pant\nWork: Printed\nNeck Style: Round Neck\nColour Declaration: There might be slight variation in the actual color of the product due to different screen resolutions.\nOccasion: Traditional wear, Casual Wear, party wear, evening wear.",
+    "sizes": [
+      { "size": "S", "price": 189.99 },
+      { "size": "M", "price": 249.99 },
+      { "size": "L", "price": 269.99 },
+      { "size": "XL", "price": 289.99 }
+    ],
+    "image": "/images/kurti.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Baggy Korean Pants",
+    "price": 129.99,
+    "description": "Material: 60% Cotton, 40% Polyester\nPattern: Solid\nLength: 39\nWaist Line: High Waist\nSheer: No\nPattern Type: Solid/Plain\nDetails: High Waist, Wide Leg, Baggy, Korean Pants",
+    "sizes": [
+      { "size": "S", "price": 129.99 },
+      { "size": "M", "price": 259.99 },
+      { "size": "L", "price": 289.99 },
+      { "size": "XL", "price": 329.99 }
+    ],
+    "image": "/images/baggy-korean-pants.jpg"
+    
+  },
+  {
+    "id": 7,
+    "name": "Cotton Kurta",
+    "price": 139.99,
+    "description": "Fabric: Cotton Blend, Closure: Button\nOccasion: Casual, Fit: Regular Fit\nSoft Touch Rayon Fabrics: Good capability of tenderness, air permeability, and moisture absorption feels soft and comfy\nSuitable for: Casual, Business Work, Date, Party, Perfect gift for families, friends, and boyfriend\nQuality Fabric and Stitching\nFinding Basic Menswear for daily use can be hard among today’s Fast fashion world, where trends change daily.",
+    "sizes": [
+      { "size": "S", "price": 139.99 },
+      { "size": "M", "price": 269.99 },
+      { "size": "L", "price": 299.99 },
+      { "size": "XL", "price": 429.99 }
+    ],
+    "image": "/images/kurta.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Casual Polo T-Shirt ",
+    "price": 197.99,
+    "description": "【𝐎𝐜𝐜𝐚𝐬𝐢𝐨𝐧】: Leisure formal Casual polo tshirt for men.\n【𝐏𝐚𝐭𝐭𝐞𝐫𝐧】: Polo t-shirt for men with Lycra fabric, spread collar.\n【𝐅𝐢𝐭】: Regular Fit men's polo T-shirt.\n【𝐒𝐥𝐞𝐞𝐯𝐞𝐬】: Full-sleeve summer polo t-shirt for man.",
+    "sizes": [
+      { "size": "S", "price": 197.99 },
+      { "size": "M", "price": 204.99 },
+      { "size": "L", "price": 211.99 },
+      { "size": "XL", "price": 220.99 }
+    ],
+    "image": "/images/regular-fit-polo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tropical Printed Ryon Shirt",
+    "price": 198.99,
+    "description": "Fabric: Rayon || Color: Multi Colored || Pattern: Stylish Tropical Leaf Print || Sleeves: Short Sleeve || Fit Type: Regular\nPackage Content: 1 Shirt For Men || Type: Stylish Printed Shirts || Shirt Length: Curved Hem Line || Neck: Spread Collar Design\nSize: Our Shirts Have XS, S, M, L, XL, And XXL Sizes Available. Select as Per Your Requirement\nOccasion: Beach wear, Casual Wear, Party Wear, Date Wear, Evening wear, Travelling Wear, Office Wear, College Wear, Day & Night Wear, summer shirts for men",
+    "sizes": [
+      { "size": "S", "price": 198.99 },
+      { "size": "M", "price": 205.99 },
+      { "size": "L", "price": 212.99 },
+      { "size": "XL", "price": 220.99 }
+    ],
+    "image": "/images/tropical.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Waffle Knitted Crew Neck Tees",
+    "price": 199.99,
+    "description": "Comfy and Lightweight material, It is Breathable and Skin-Friendly.\nFeatures: Waffle Knit, Crew Neck, Short Sleeve, Casual Tee\nOccasion: Daily wear, Office wear, Dating, Sports, Holiday\nIt can be matched with denim pants, cargo pants, shorts for a modern look.",
+    "sizes": [
+      { "size": "S", "price": 199.99 },
+      { "size": "M", "price": 206.99 },
+      { "size": "L", "price": 213.99 },
+      { "size": "XL", "price": 220.99 }
+    ],
+    "image": "/images/crew-neck.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Workout Running Shorts",
+    "price": 99.99,
+    "description": "Women's workout shorts make you feel breathable and comfortable during indoor or outdoor sports: yoga, gym, exercise, fitness, running, jogging, training or everyday casual wear.\nDesigned with compression inner layer and loose outer layer, effectively prevents you against accidental exposure during exercise.\nTwo in one shorts, Two Layer, compression inner with phone inner pocket, you can enjoy your sports without worries.\nMaterial Combination: 95% polyester, 5% elastane. A combination of 2 high quality materials merged into one single product. The inner is made up of very smooth and stretchable cloth.\nAge Range Description: Adult\nFit Type: Regular Fit\nRise Style: Regular\nColor Name: Olive 6\nClosure Type: Pull On\nOccasion Type: Athletic\nPattern Type: Solid\nItem Length Description: Above Knee",
+    "sizes": [
+      { "size": "S", "price": 99.99 },
+      { "size": "M", "price": 109.99 },
+      { "size": "L", "price": 119.99 },
+      { "size": "XL", "price": 129.99 }
+    ],
+    "image": "/images/workout.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Loose Fit Joggers",
+    "price": 179.99,
+    "description": "The jogger is High rise waist, extra loose baggy fit, Korean cute influencer style.\nMade from stretchable soft cotton 100% fabric. Trending fashion wear for women.\nIdeal fit for women from 5FT tall to 5.6FT tall.\nLoose comfortable hip hop style fit great for all seasons.",
+    "sizes": [
+      { "size": "S", "price": 179.99 },
+      { "size": "M", "price": 289.99 },
+      { "size": "L", "price": 299.99 },
+      { "size": "XL", "price": 399.99 }
+    ],
+    "image": "/images/joggers.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Unisex Sweatshirts",
+    "price": 199.79,
+    "description": "Unisex sweatshirts\nNeckline: Round Neck\nSleeve Length: Long Sleeve\nFit Type: Regular Fit\nStyle: Casual",
+    "sizes": [
+      { "size": "S", "price": 199.79 },
+      { "size": "M", "price": 209.49 },
+      { "size": "L", "price": 219.19 },
+      { "size": "XL", "price": 229.09 }
+    ],
+    "image": "/images/sweatshirt.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Solid Blend Trouser",
+    "price": 199.89,
+    "description": "Type: Women Pant\nFabric: Polyester blend\nFabric care: Machine wash\nLength: Regular Length\nClosure: Button",
+    "sizes": [
+      { "size": "S", "price": 199.89 },
+      { "size": "M", "price": 209.59 },
+      { "size": "L", "price": 219.29 },
+      { "size": "XL", "price": 229.19 }
+    ],
+    "image": "/images/sbt.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Mandarin Collar Short Kurta",
+    "price": 199.99,
+    "description": "Breathable and Comfortable Cotton Blend: Enjoy the softness and breathability of our premium cotton blend fabric.\nStylish Design: Elevate your casual look with a unique one-side Solid/printed pattern for a trendy vibe.\nVersatile Full Sleeve: Perfect for any season, the full sleeves provide added style and comfort.\nCasual Elegance: Strike the right balance between comfort and style with this casual short kurta. Perfect for casual, festive, holiday wear, Wedding, Date night, Party, Formal.\nEasy Maintenance: Machine washable for convenient care, ensuring your kurta stays fresh and vibrant.",
+    "sizes": [
+      { "size": "S", "price": 199.99 },
+      { "size": "M", "price": 209.69 },
+      { "size": "L", "price": 219.39 },
+      { "size": "XL", "price": 229.19 }
+    ],
+    "image": "/images/mcc.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Formal Slim Checkered Printed Shirt",
+    "price": 194.99,
+    "description": "Care Instructions: Hand Wash or Machine Wash only\nPremium Shirt: Extremely soft finish and rich look\nStylish Full Sleeves: Printed striped casual/formal shirt\nShirt for men: Casual shirt for men, stylish shirt for men, printed shirt for men\nStyle: Enhance your look by wearing this casual stylish men's shirt. Team it with a pair of tapered denims or solid chinos and loafers for a fun smart casual look.",
+    "sizes": [
+      { "size": "S", "price": 194.99 },
+      { "size": "M", "price": 203.99 },
+      { "size": "L", "price": 215.99 },
+      { "size": "XL", "price": 289.99 }
+    ],
+    "image": "/images/cps.jpg"
+  },
+  {
+    "id": 17,
+    "name": "One Piece Dress for Women",
+    "price": 179.99,
+    "description": "SOFT BLEND ELEGANCE: This women dress is crafted from a soft rayon blend with a geometric, all-over print & a perfect beach wear dress for women.\nSTYLE & LENGTH: This women western wear features a standard length, a front-open collar, and stylish front buttons.\nVERSATILE: This women one-piece dress is perfect for party dress, office, nights out, beach, hangouts, picnics, vacations, haldi & mehndi functions, & birthday parties.\nCOMFORTABLE: Embrace summer style with our beach outfits for women, which is designed to keep you cool & fashionable in the warmer months.",
+    "sizes": [
+      { "size": "S", "price": 179.99 },
+      { "size": "M", "price": 249.99 },
+      { "size": "L", "price": 269.99 },
+      { "size": "XL", "price": 289.99 }
+    ],
+    "image": "/images/op.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Active T Shirt for Gym & Sports",
+    "price": 179.99,
+    "description": "DESIGN: Active T Shirt is your admission to a new, purposeful approach to training. Created to encourage you to aspire more, perform more and achieve more.\nBREATHABLE FABRIC: Active T Shirt is made from a fabric that allows air to circulate through it, promoting ventilation and aiding in moisture management. This helps keep the wearer cool, dry, and comfortable during physical activities.\nQUICK DRY TECHNOLOGY: The fabric of this gym t shirt for men is engineered to quickly wick moisture away from the body to the outer surface of the fabric, where it can evaporate rapidly. This ensures that sweat and moisture don't linger on the skin, keeping the wearer feeling fresh and dry even during intense workouts.\nSTRETCHABILITY: This poly-spandex t shirt is designed with a stretchable fabric that offers flexibility and freedom of movement. This allows the wearer to move comfortably during various activities without feeling restricted by the garment.\nMICROFIBER SKIN-FRIENDLY MATERIAL: This dry fit t shirt is crafted from microfiber material, known for its softness, lightweight feel, and durability. Microfiber fabrics in the sports t shirt are gentle on the skin and minimize the risk of irritation or chafing, even during prolonged wear.",
+    "sizes": [
+      { "size": "S", "price": 179.99 },
+      { "size": "M", "price": 209.99 },
+      { "size": "L", "price": 229.99 },
+      { "size": "XL", "price": 259.99 }
+    ],
+    "image": "/images/gym.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Mens Full Sleeve Sports T-Shirts",
+    "price": 199.49,
+    "description": "Fabric: 100% Polyester\nMoisture Management for better breathability, anti-pilling, anti-static properties\nPattern: ColorBlocked\nNeck Style: Round Neck\nSleeve: Full Sleeve",
+    "sizes": [
+      { "size": "S", "price": 199.49 },
+      { "size": "M", "price": 209.59 },
+      { "size": "L", "price": 219.69 },
+      { "size": "XL", "price": 229.39 }
+    ],
+    "image": "/images/fsgym.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Casual Regular Sleeves Crepe Dress",
+    "price": 299.99,
+    "description": "Sleeve Style: Regular Sleeves\nFabric: Crepe | Pattern: Solid\nIdeal For: Women\nOccasion: Casual\nDress Type: Fit and Flare | Length: Midi/Calf Length",
+    "sizes": [
+      { "size": "S", "price": 299.99 },
+      { "size": "M", "price": 309.99 },
+      { "size": "L", "price": 419.99 },
+      { "size": "XL", "price": 529.99 }
+    ],
+    "image": "/images/crs.jpg"
+  }
+]
