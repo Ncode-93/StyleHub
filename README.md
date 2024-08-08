@@ -34,7 +34,7 @@ Open a pull request.<br/>
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Project Link: [StyleHub on GitHub](https://styleh-ub.netlify.app/)<br/>
+Project Link: [StyleHub](https://styleh-ub.netlify.app/)<br/>
 Author: Ncode-93<br/>
 Support mail - nimish.bhardwaj@s.amity.edu<br/>
 
