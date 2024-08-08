@@ -1,6 +1,42 @@
 # StyleHub
+Website Link - https://styleh-ub.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+StyleHub is an e-commerce platform that allows users to browse a wide selection of clothing items, view product details, and manage a shopping cart. The app is built using React and utilizes React Router for navigation. It also includes a cart system that lets users add and remove items, view total prices, and proceed to checkout.
+
+## Features
+1) Product List: Browse through various clothing items with their details and prices.<br/>
+2) Product Details: View detailed information about each product, including available sizes and prices.<br/>
+3) Shopping Cart: Add items to the cart, view cart contents, and remove items from the cart.<br/>
+4) Responsive Design: The application is responsive and works well on different screen sizes.<br/>
+
+## Tech Stack
+--> Frontend: React, React Router<br/>
+-->Icons: Lucide-react<br/>
+-->Styling: Tailwind CSS<br/>
+-->Data: JSON<br/>
+-->Hosting - Netlify<br/>
+
+## Prerequisites
+Make sure you have the following installed:
+
+### Node.js (>=14.0.0)
+### npm (>=6.0.0) or yarn (>=1.22.0)
+
+## Contributing
+Fork the repository.<br/>
+Create your feature branch (git checkout -b feature/AmazingFeature).<br/>
+Commit your changes (git commit -m 'Add some AmazingFeature').<br/>
+Push to the branch (git push origin feature/AmazingFeature).<br/>
+Open a pull request.<br/>
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+Project Link: [StyleHub on GitHub](https://styleh-ub.netlify.app/)<br/>
+Author: Ncode-93<br/>
+Support mail - nimish.bhardwaj@s.amity.edu<br/>
 
 ## Available Scripts
 
